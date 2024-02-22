@@ -1,0 +1,18 @@
+p {
+    background-color: hsla(0, 61%, 53%, 0.811);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.veintiCuatro {
+    font-size: 24px;
+}
+
+#dos {
+    color: hsla(244, 76%, 44%, 0.945);
+    font-size: 36px;
+}
+
+div.veintiCuatro{
+    background-color: lightgreen;
+    font-weight: bold;
+}
